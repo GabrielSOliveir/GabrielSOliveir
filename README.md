@@ -1,9 +1,4 @@
 ![banner](https://github.com/GabrielSOliveir/GabrielSOliveir/assets/130519466/33872591-5376-43ec-ae42-345ea8da16da)
-
-<p align="center">
-  <img src="banner.png" >
-</p>
-
 # Gabriel Oliveira
 <sub>*Data Scientist*</sub>
 
