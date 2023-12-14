@@ -1,16 +1,22 @@
-### Hi there 👋
+[![author](https://img.shields.io/badge/author-GabrielOliveira-red.svg)](https://www.linkedin.com/in/gabriel-oliveira-1aa212270/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
-<!--
-**GabrielSOliveir/GabrielSOliveir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="banner.png" >
+</p>
 
-Here are some ideas to get you started:
+# Gabriel Oliveira
+<sub>*Data Scientist*</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"I Would Spend 55 Minutes Defining the Problem and then Five Minutes Solving It" Einsten
+
+As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+
+My credentials include a MBA in Operational Research from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil.
+
+**Background in:** Python, Machine Learning, Operational Research and Mathematical Optimisation.
+
+
+## Projects:
+
+* **Python_Scraping_Excel:** https://bit.ly/python_scrape_excel
+
