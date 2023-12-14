@@ -13,5 +13,5 @@ My credentials include a MBA in Operational Research from the Aeronautics Instit
 
 ## Projects:
 
-* **Python Web Scraping and Excel as a Competitive Advantage:** https://bit.ly/python_scrape_excel
+* **Web Scraping as a Competitive Advantage:** https://bit.ly/python_scrape_excel
 
