@@ -14,7 +14,7 @@ My credentials include a MBA in Operational Research from the Aeronautics Instit
 ## Projects:
 
 * **Web Scraping as a Business Competitive Advantage:** https://bit.ly/python_scrape_excel
-* **Dos Dados à Decisão: Como Análises do Airbnb Podem Transformar Estratégias de Acomodações em Nova York** https://tinyurl.com/ekrwst22
+* **Dos Dados à Decisão: Como Análises do Airbnb Podem Transformar Estratégias de Acomodações** https://tinyurl.com/ekrwst22
 
 
 
