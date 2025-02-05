@@ -10,6 +10,14 @@ My credentials include a MBA in Operational Research from the Aeronautics Instit
 
 **Background in:** Python, Machine Learning, Operational Research and Mathematical Optimisation.
 
+# Meus Contatos
+
+<a href="https://www.linkedin.com/in/gabriel-oliveira-1aa212270/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="https://medium.com/@goliveira11232" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/medium-new.png" alt="Medium" width="40" height="40"/>
+</a>
 
 ## Projects:
 
