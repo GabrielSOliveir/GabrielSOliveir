@@ -12,8 +12,8 @@ My credentials include a MBA in Operational Research from the Aeronautics Instit
 
 ## Meus Contatos
 
-[![LinkedIn](https://img.icons8.com/ios-filled/50/0077b5/linkedin.png)](https://www.linkedin.com/in/gabriel-oliveira-1aa212270)
-[![Medium](https://img.icons8.com/ios-filled/50/000000/medium-new.png)](https://medium.com/@goliveira11232)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-1aa212270)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@goliveira11232)
 
 ## Projects:
 
