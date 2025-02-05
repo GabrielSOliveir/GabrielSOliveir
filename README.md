@@ -8,7 +8,7 @@ As a experienced Data Scientist and Air Force pilot I combine analytical skills,
 
 My credentials include a MBA in Operational Research from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil.
 
-**Background in:** Python, Machine Learning, Operational Research and Mathematical Optimisation.
+**Background in:** Statistics, Deep Learning, Computer Vision, Machine Learning, Operational Research, and Mathematical Optimisation.
 
 ## Meus Contatos
 
