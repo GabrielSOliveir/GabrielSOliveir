@@ -56,5 +56,3 @@ Currently, I am pursuing a **Master's degree in AI/Deep Learning at the Aeronaut
 - **[Read the Full Article](https://tinyurl.com/26k5j95m)**
 
 </details>
-
-
