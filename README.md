@@ -1,14 +1,26 @@
 ![banner](https://github.com/GabrielSOliveir/GabrielSOliveir/assets/130519466/33872591-5376-43ec-ae42-345ea8da16da)
 # Gabriel Oliveira
-<sub>*Data Scientist*</sub>
 
-"I Would Spend 55 Minutes Defining the Problem and then Five Minutes Solving It" Einsten
+### Machine Learning Engineer | M.Sc. in AI @ ITA
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+> "I Would Spend 55 Minutes Defining the Problem and then Five Minutes Solving It" - Albert Einstein
 
-My credentials include a MBA in Operational Research from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil.
+I am a Machine Learning Engineer and former Air Force fighter pilot, leveraging a unique background in mission-critical operations to build robust and impactful AI solutions. My experience leading teams and solving complex challenges in the military has honed my problem-solving skills and attention to detail.
 
-**Background in:** Statistics, Deep Learning, Computer Vision, Machine Learning, Operational Research, and Mathematical Optimisation.
+Currently, I am pursuing a **Master's degree in AI/Deep Learning at the Aeronautics Institute of Technology (ITA)**, one of Brazil's most prestigious engineering institutions. My research is focused on applying Computer Vision to satellite imagery for the detection of illegal mining, combining my passion for technology and mission-driven problem-solving.
+
+---
+
+### 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Meus Contatos
 
