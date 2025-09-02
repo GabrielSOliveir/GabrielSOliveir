@@ -39,7 +39,7 @@ Currently, I am pursuing a **Master's degree in AI/Deep Learning at the Aeronaut
 
 </details>
 
-<details>
+<details open>
 <summary><strong>📊 From Data to Decision: Airbnb Analysis</strong></summary>
 
 - **Description:** Conducted an Exploratory Data Analysis (EDA) on an Airbnb dataset to uncover patterns in pricing, availability, and location preferences. The goal was to extract actionable insights that could help hosts optimize their listings and pricing strategies.
@@ -48,7 +48,7 @@ Currently, I am pursuing a **Master's degree in AI/Deep Learning at the Aeronaut
 
 </details>
 
-<details>
+<details open>
 <summary><strong>🕸️ Web Scraping for Business Competitive Advantage</strong></summary>
 
 - **Description:** Developed a web scraping solution to systematically collect public data from competitor websites. This project demonstrates how automated data extraction can be used to monitor market trends, compare pricing, and gain a competitive edge.
