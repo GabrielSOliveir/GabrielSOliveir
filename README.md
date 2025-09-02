@@ -1,4 +1,4 @@
-![banner](https://github.com/GabrielSOliveir/GabrielSOliveir/assets/130519466/33872591-5376-43ec-ae42-345ea8da16da)
+![banner](Banner.png)
 # Gabriel Oliveira
 
 ### Machine Learning Engineer | M.Sc. in AI @ ITA
