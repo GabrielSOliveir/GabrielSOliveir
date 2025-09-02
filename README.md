@@ -35,7 +35,7 @@ Currently, I am pursuing a **Master's degree in AI/Deep Learning at the Aeronaut
 - **Status:** In Progress
 - **Description:** Developing a Deep Learning model to automatically detect and classify illegal mining activities in the Amazon rainforest using Sentinel-1 (SAR) satellite imagery. The goal is to create a tool that distinguishes mining deforestation from other types, providing a more accurate monitoring system for environmental agencies.
 - **Tech Stack:** Python, PyTorch/TensorFlow, Google Earth Engine, GeoPandas, Rasterio.
-- **Repository:** [Link to your repo will be here]
+- **Repository:** In Progress
 
 </details>
 
