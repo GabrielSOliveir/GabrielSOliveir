@@ -46,7 +46,7 @@ Currently, I am pursuing a **Master's degree in AI/Deep Learning at the Aeronaut
 Here I share complementary learning resources and personal solutions I developed while deepening my understanding of AI and Deep Learning.
 
 #### 📘 MIT 6.S191 – Introduction to Deep Learning (MIT)
-- 🧪 **Fork:** [Official Lab Materials](https://github.com/GabrielSOliveir/mit-6s191-fork)
+- 🧪 **Fork:** [Official Lab Materials](https://github.com/GabrielSOliveir/MIT-6.S191---introtodeeplearning)
 > This course by MIT covers the foundations of deep learning through three hands-on labs. Below are my implementations for each part, adapted and expanded with personal notes and experiments.
 
 | Lab | Topic | Official Material | My Solutions |
