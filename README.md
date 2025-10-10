@@ -30,29 +30,27 @@ Currently, I am pursuing a **Master's degree in AI/Deep Learning at the Aeronaut
 ### 🚀 Key Projects
 
 <details open>
-<summary><strong>🛰️ AI for Illegal Mining Detection (Master's Thesis Project)</strong></summary>
-
-- **Status:** In Progress
-- **Description:** Developing a Deep Learning model to automatically detect and classify illegal mining activities in the Amazon rainforest using Sentinel-1 (SAR) satellite imagery. The goal is to create a tool that distinguishes mining deforestation from other types, providing a more accurate monitoring system for environmental agencies.
-- **Tech Stack:** Python, PyTorch/TensorFlow, Google Earth Engine, GeoPandas, Rasterio.
-- **Repository:** In Progress
-
+<summary><strong>🛰️ AI for Illegal Mining Detection (Master's Thesis Project)</strong></summary>- **Status:** In Progress
 </details>
 
 <details open>
-<summary><strong>📊 From Data to Decision: Airbnb Analysis</strong></summary>
-
-- **Description:** Conducted an Exploratory Data Analysis (EDA) on an Airbnb dataset to uncover patterns in pricing, availability, and location preferences. The goal was to extract actionable insights that could help hosts optimize their listings and pricing strategies.
-- **Tech Stack:** Python, Pandas, Matplotlib, Seaborn.
-- **[Read the Full Analysis](https://tinyurl.com/ekrwst22)**
-
+<summary><strong>📊 From Data to Decision: Airbnb Analysis</strong></summary>- **[Read the Full Analysis](https://tinyurl.com/ekrwst22)**
 </details>
 
 <details open>
-<summary><strong>🕸️ Web Scraping for Business Competitive Advantage</strong></summary>
-
-- **Description:** Developed a web scraping solution to systematically collect public data from competitor websites. This project demonstrates how automated data extraction can be used to monitor market trends, compare pricing, and gain a competitive edge.
-- **Tech Stack:** Python, Beautiful Soup, Scrapy, Pandas.
-- **[Read the Full Article](https://tinyurl.com/26k5j95m)**
-
+<summary><strong>🕸️ Web Scraping for Business Competitive Advantage</strong></summary>- **[Read the Full Article](https://tinyurl.com/26k5j95m)**
 </details>
+
+### 🧠 Complementary Learning
+
+Here I share complementary learning resources and personal solutions I developed while deepening my understanding of AI and Deep Learning.
+
+#### 📘 MIT 6.S191 – Introduction to Deep Learning (MIT)
+- 🧪 **Fork:** [Official Lab Materials]([https://github.com/SEU_USUARIO/mit-6s191-fork](https://github.com/GabrielSOliveir/MIT-6.S191---introtodeeplearning))  
+> This course by MIT covers the foundations of deep learning through three hands-on labs. Below are my implementations for each part, adapted and expanded with personal notes and experiments.
+
+| Lab | Topic | Official Material | My Solutions |
+|-----|-------|--------------------|--------------|
+| 1 | Introduction to Deep Learning | [Lab 1 - Part 1 ](https://github.com/SEU_USUARIO/mit-6s191-fork/tree/master/lab1) | [Part 2](https://colab.research.google.com/drive/LINK_PART1_LAB1) |
+| 2 | Deep Sequence Modeling (RNNs & LSTMs) | [Lab 2 - Part 1](https://github.com/SEU_USUARIO/mit-6s191-fork/tree/master/lab2) | [Part 2](https://colab.research.google.com/drive/LINK_PART1_LAB2)|
+| 3 | Reinforcement Learning | [Lab 3 - Part 1](https://github.com/SEU_USUARIO/mit-6s191-fork/tree/master/lab3) | [Part 2](https://colab.research.google.com/drive/LINK_PART1_LAB3)
