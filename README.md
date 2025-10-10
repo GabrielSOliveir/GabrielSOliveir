@@ -27,19 +27,19 @@ Currently, I am pursuing a **Master's degree in AI/Deep Learning at the Aeronaut
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-1aa212270)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@goliveira11232)
 
-### 🚀 Key Projects
+## 🚀 Key Projects
 
-<details open>
-<summary><strong>🛰️ AI for Illegal Mining Detection (Master's Thesis Project)</strong></summary>- **Status:** In Progress
-</details>
+- 🛰 **AI for Illegal Mining Detection (Master's Thesis Project)**  
+  ⏳ *Status: In Progress*  
+  Development of a deep learning pipeline using Sentinel-1 SAR time series to detect and classify illegal mining in the Amazon.  
 
-<details open>
-<summary><strong>📊 From Data to Decision: Airbnb Analysis</strong></summary>- **[Read the Full Analysis](https://tinyurl.com/ekrwst22)**
-</details>
+- 📊 **From Data to Decision: Airbnb Analysis**  
+  Exploratory data analysis on Airbnb listings to uncover pricing patterns and availability trends.  
+  👉 [**Read the Full Analysis**](https://tinyurl.com/ekrwst22)
 
-<details open>
-<summary><strong>🕸️ Web Scraping for Business Competitive Advantage</strong></summary>- **[Read the Full Article](https://tinyurl.com/26k5j95m)**
-</details>
+- 🕸 **Web Scraping for Business Competitive Advantage**  
+  Built a web scraping solution to collect market intelligence for business strategy.  
+  👉 [**Read the Full Article**](https://tinyurl.com/26k5j95m)
 
 ### 🧠 Complementary Learning
 
