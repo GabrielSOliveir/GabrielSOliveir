@@ -51,6 +51,6 @@ Here I share complementary learning resources and personal solutions I developed
 
 | Lab | Topic | Official Material | My Solutions |
 |-----|-------|--------------------|--------------|
-| 1 | Music Generation | [Lab 1 - Part 1 ](https://github.com/SEU_USUARIO/mit-6s191-fork/tree/master/lab1) | [Part 2](https://colab.research.google.com/drive/LINK_PART1_LAB1) |
+| 1 | Music Generation | [Lab 1 - Part 1 ](https://github.com/GabrielSOliveir/Projects_Data_Science/blob/main/Mit_week1_Part1_Intro.ipynb) | [Part 2](https://colab.research.google.com/drive/LINK_PART1_LAB1) |
 | 2 | Facial Detection Systems | [Lab 2 - Part 1](https://github.com/SEU_USUARIO/mit-6s191-fork/tree/master/lab2) | [Part 2](https://colab.research.google.com/drive/LINK_PART1_LAB2)|
 | 3 | Fine-Tune an LLM | [Lab 3 - Part 1](https://github.com/SEU_USUARIO/mit-6s191-fork/tree/master/lab3) | [Part 2](https://colab.research.google.com/drive/LINK_PART1_LAB3)
