@@ -39,11 +39,7 @@ Currently, I am pursuing a **Master's degree in AI/Deep Learning at the Aeronaut
 
 - 🕸 **Web Scraping for Business Competitive Advantage**  
   Built a web scraping solution to collect market intelligence for business strategy.  
-  👉 [**Read the Full Article**](https://tinyurl.com/26k5j95m)
-
-### 🧠 Complementary Learning
-
-Here I share complementary learning resources and personal solutions I developed while deepening my understanding of AI and Deep Learning.
+  👉 [**Read the Full Article**](https://tinyurl.com/26k5j95m)g my understanding of AI and Deep Learning.
 
 #### 📘 MIT 6.S191 – Introduction to Deep Learning (MIT)
 - 🧪 **Fork:** [Official Lab Materials](https://github.com/GabrielSOliveir/MIT-6.S191---introtodeeplearning)
