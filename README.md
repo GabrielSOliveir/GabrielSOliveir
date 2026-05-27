@@ -33,14 +33,3 @@ Currently, I am pursuing a **Master's degree in AI/Deep Learning at the Aeronaut
   ⏳ *Status: In Progress*  
   Development of a deep learning pipeline using Sentinel-1 SAR time series to detect and classify illegal mining in the Amazon.  
 
-- 📊 **From Data to Decision: Airbnb Analysis**  
-  Exploratory data analysis on Airbnb listings to uncover pricing patterns and availability trends.  
-  👉 [**Read the Full Analysis**](https://tinyurl.com/ekrwst22)
-
-- 🕸 **Web Scraping for Business Competitive Advantage**  
-  Built a web scraping solution to collect market intelligence for business strategy.  
-  👉 [**Read the Full Article**](https://tinyurl.com/26k5j95m)g my understanding of AI and Deep Learning.
-
-#### 📘 MIT 6.S191 – Introduction to Deep Learning (MIT)
-- 🧪 **Fork:** [Official Lab Materials](https://github.com/GabrielSOliveir/MIT-6.S191---introtodeeplearning)
-
