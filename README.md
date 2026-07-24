@@ -26,10 +26,3 @@ Currently, I am pursuing a **Master's degree in AI/Deep Learning at the Aeronaut
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-1aa212270)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@goliveira11232)
-
-## 🚀 Key Projects
-
-- 🛰 **AI for Illegal Mining Detection (Master's Thesis Project)**  
-  ⏳ *Status: In Progress*  
-  Development of a deep learning pipeline using Sentinel-1 SAR time series to detect and classify illegal mining in the Amazon.  
-
