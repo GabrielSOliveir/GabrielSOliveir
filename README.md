@@ -7,7 +7,9 @@ I build ML models end to end, from problem framing to production: Bayesian forec
 
 ---
 
-### 🛰️ Featured project
+### 🚀 Featured projects
+
+**[brazil-2026-election-night](https://github.com/GabrielSOliveir/brazil-2026-election-night)** — live hierarchical Bayesian projection of Brazil's 2026 presidential runoff from the official vote feed. Projected 51.75% with 85% counted vs. 51.79% final, while the raw count swung 4.4 points; calibrated intervals, a partial-count backtest harness and a reproducible replay of election night.
 
 **[sar-mining-attribution](https://github.com/GabrielSOliveir/sar-mining-attribution)** — cause attribution of Amazon deforestation alerts from Sentinel-1 SAR; F1 0.88 in Pará; shows that illegal-mining signatures don't transfer across states. Reproducible code and Google Earth Engine pipeline for the paper below.
 
