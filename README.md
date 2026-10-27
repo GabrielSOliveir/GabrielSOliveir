@@ -1,13 +1,21 @@
 ![banner](Banner.png)
 # Gabriel Oliveira
 
-### Machine Learning Engineer | M.Sc. in AI @ ITA
+### Machine Learning Scientist | M.Sc. in AI @ ITA
 
-> "I Would Spend 55 Minutes Defining the Problem and then Five Minutes Solving It" - Albert Einstein
+I build ML models end to end, from problem framing to production: Bayesian forecasting, predictive maintenance, LLM-based agents and SAR remote sensing. Former fighter pilot and head of A-29 maintenance in the Brazilian Air Force.
 
-I am a Machine Learning Engineer and former Air Force fighter pilot, leveraging a unique background in mission-critical operations to build robust and impactful AI solutions. My experience leading teams and solving complex challenges in the military has honed my problem-solving skills and attention to detail.
+---
 
-Currently, I am pursuing a **Master's degree in AI/Deep Learning at the Aeronautics Institute of Technology (ITA)**, one of Brazil's most prestigious engineering institutions. My research is focused on applying Computer Vision to satellite imagery for the detection of illegal mining, combining my passion for technology and mission-driven problem-solving.
+### 🛰️ Featured project
+
+**[sar-mining-attribution](https://github.com/GabrielSOliveir/sar-mining-attribution)** — cause attribution of Amazon deforestation alerts from Sentinel-1 SAR; F1 0.88 in Pará; shows that illegal-mining signatures don't transfer across states. Reproducible code and Google Earth Engine pipeline for the paper below.
+
+### 📄 Publications
+
+- **G. S. Oliveira**, M. Habermann, D. A. Pamplona, T. N. Kuck, E. H. Shiguemori. *Regional Specificity of SAR-Based Illegal Mining Signatures in the Brazilian Amazon: A Cause Attribution Framework for Deforestation Alerts.* **Remote Sensing** (MDPI), accepted for publication, 2026.
+- **G. S. Oliveira**, E. H. Shiguemori, M. Habermann, A. Passaro. *Metaheuristic feature selection for illegal mining classification with Sentinel-1 SAR in the Amazon.* Brazilian Symposium on Operations Research (SBPO), 2026 — accepted as full paper.
+- G. V. de Andrade, **G. S. Oliveira**, A. C. S. da Silva, M. C. N. Belderrain, L. Abuabara. *Renovation of a military airfield: an application of Soft Systems Methodology and AHP.* SBPO, 2022.
 
 ---
 
@@ -24,5 +32,5 @@ Currently, I am pursuing a **Master's degree in AI/Deep Learning at the Aeronaut
 
 ### 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-1aa212270)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-ml)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@goliveira11232)
