@@ -13,6 +13,8 @@ I build ML models end to end, from problem framing to production: Bayesian forec
 
 **[sar-mining-attribution](https://github.com/GabrielSOliveir/sar-mining-attribution)** — cause attribution of Amazon deforestation alerts from Sentinel-1 SAR; F1 0.88 in Pará; shows that illegal-mining signatures don't transfer across states. Reproducible code and Google Earth Engine pipeline for the paper below.
 
+**[ecg-photo-triage](https://github.com/GabrielSOliveir/ecg-photo-triage)** — phone photos of paper ECGs → multimodal LLM drafts the report and plan → a cardiologist approves or corrects. Used on real cases; a paired A/B showed image preprocessing helps (14 better vs. 4 worse, p = 0.03), and a per-finding evaluation shows where an LLM is not an ECG reader (ST elevation 2/14).
+
 ### 📄 Publications
 
 - **G. S. Oliveira**, M. Habermann, D. A. Pamplona, T. N. Kuck, E. H. Shiguemori. *Regional Specificity of SAR-Based Illegal Mining Signatures in the Brazilian Amazon: A Cause Attribution Framework for Deforestation Alerts.* **Remote Sensing** (MDPI), accepted for publication, 2026.
